@@ -26,7 +26,7 @@
     "treeify": "~1.0.1",
     "bower-json": "~0.4.0",
     "underscore": "~1.5.2",
-    "npm-license": "~0.1.9",
+    "npm-license": "git://github.com/andreineculau/npm-license.git#master",
     "package-license": "~0.1.1"
   }
 }
